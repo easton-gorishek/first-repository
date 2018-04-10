@@ -1,3 +1,12 @@
-hello world, time for git
+# Hello ACL Team!
 
-hello
+**This is my first README file.**
+
+Topics we covered in class:
+* terminal
+* git/GitHub
+* VScode
+* keyboard shortcuts
+
+### Looking forward to learn mucho mas!
+
