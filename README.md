@@ -4,7 +4,7 @@
 
 Topics we covered in class:
 * terminal
-* git/GitHub
+* Git/GitHub
 * VScode
 * keyboard shortcuts
 
